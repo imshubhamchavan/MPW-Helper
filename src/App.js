@@ -32,7 +32,7 @@ function App() {
       </header>
 
       <main>
-        <h1>Index Calculator (HI, BI, CI)</h1>
+        <h1>HI, BI, CI Calculator</h1>
         <section>
           <form onSubmit={calculate}>
             <div className="input-group">
@@ -92,7 +92,7 @@ function App() {
       </main>
 
       <footer>
-        <p>&copy; 2025 MPW Helper | Designed for field use</p>
+        <p>&copy; 2025 Designed & Developed by <a href='https://www.linkedin.com/in/shubham--chavan/'>Shubham</a></p>
       </footer>
     </>
   );
