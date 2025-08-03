@@ -32,7 +32,7 @@ function App() {
       </header>
 
       <main>
-        <h1>HI, BI, CI Calculator</h1>
+        <h1>HI, BI, CI</h1>
         <section>
           <form onSubmit={calculate}>
             <div className="input-group">
