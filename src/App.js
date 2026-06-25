@@ -27,7 +27,7 @@ function App() {
     <>
       <header>
         <nav className="navbar">
-          <div className="logo">MPW Helper by shubham chavan</div>
+          <div className="logo">MPW Helper by shubham</div>
         </nav>
       </header>
 
