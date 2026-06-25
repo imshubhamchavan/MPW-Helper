@@ -92,7 +92,7 @@ function App() {
       </main>
 
       <footer>
-        <p>&copy; 2025 Designed & Developed by <a href='https://www.linkedin.com/in/shubham--chavan/'>Shubham</a></p>
+        <p>&copy; 2025 Designed & Developed by <a href='https://www.instagram.com/shubhamzone.01?igsh=MmdvaDh5aTRlemZy/'>Shubham Chavan</a></p>
       </footer>
     </>
   );
